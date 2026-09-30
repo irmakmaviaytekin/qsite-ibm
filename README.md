@@ -1,4 +1,4 @@
-# Q-SITE Hacks 2026 — Quantum Simulation of Hadron Dynamics
+# Q-SITE Hacks 2026 - Quantum Simulation of Hadron Dynamics
 
 **Top 8% out of 250 teams at Q-SITE Hacks 2026**
 
