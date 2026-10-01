@@ -1,6 +1,6 @@
 # Q-SITE Hacks 2026 - Quantum Simulation of Hadron Dynamics
 
-**Top 8% out of 250 teams at Q-SITE Hacks 2026**
+**Top 5% out of 250 teams at Q-SITE Hacks 2026**
 
 This repository contains our solution to the Q-SITE Hacks 2026 quantum computing challenge, focused on simulating **hadron dynamics in the Schwinger model** using Qiskit and IBM Quantum hardware.
 
